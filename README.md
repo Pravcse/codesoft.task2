@@ -37,6 +37,7 @@ Variables and Data Types
 Arithmetic Operators
 Switch-Case Statements
 Basic Program Flow
+
 ##Purpose
 
 This project was created to strengthen the fundamentals of C++ programming by implementing a simple calculator that performs the four basic mathematical operations.
